@@ -473,24 +473,24 @@
         width: 100%;
         padding: 0;
         display: flex;
-        height: fit-content;
+        height: 20vh;
       
     }
     #page8 #card1 {
-        width: 35vw;
-        height: 35vw;
+        width: 40vw;
+        height: 40vw
     }
     #page8 #card2 {
-        width: 35vw;
-        height: 35vw;
+        width: 40vw;
+        height: 40vw
     }
     #page8 #card3 {
-        width: 35vw;
-        height: 35vw;
+        width: 40vw;
+        height: 40vw
     }
     #page8 #card4 {
-        width: 35vw;
-        height: 35vw;
+        width: 40vw;
+        height: 40vw;
     }
     .card #card-content>p {
         line-height: 3vw;
